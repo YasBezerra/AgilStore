@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Mouse Gamer",
+    "category": "Acessórios",
+    "quantity": 5,
+    "price": 250
+  },
+  {
+    "id": "5d41f34a-3540-42dc-ba71-39c9232a2e9e",
+    "name": "Teclado Mecânico",
+    "category": "Acessórios",
+    "quantity": 3,
+    "price": 400
+  },
+  {
+    "id": "a4e4e41f-54bd-44d5-8c6e-dae83f34d25d",
+    "name": "Tablet",
+    "category": "Aparelho",
+    "quantity": 5,
+    "price": 1250
+  }
+]
